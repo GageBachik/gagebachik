@@ -10,8 +10,7 @@ class MyDocument extends Document {
     const meta = {
       title: 'Gage Bachik',
       description: 'Official website homepage for Gage Bachik',
-      image:
-        'https://assets.vercel.com/image/upload/q_auto/front/vercel/dps.png'
+      image: 'https://www.gagebachik.com/images/GageBachik.jpeg'
     }
 
     return (
