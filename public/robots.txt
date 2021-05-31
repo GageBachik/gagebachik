@@ -1,0 +1,6 @@
+Sitemap: https://www.gagebachik.com/api/posts-sitemap
+
+User-agent: *
+Allow: /*
+
+Disallow: /api/*

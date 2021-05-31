@@ -9,4 +9,4 @@ author: You
 # Gage Bachik
 
 I'll eventually update this post after my first week of streaming.
-For now just consider this some boilerplate <3
+For now just consider this some boilerplate.
