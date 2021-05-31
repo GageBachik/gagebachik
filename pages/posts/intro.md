@@ -1,7 +1,7 @@
 ---
 title: Gage Bachik
 date: 2021/5/31
-description: View examples of all possible Markdown options.
+description: Official inro blog post of gagebachik.com
 tag: personal, blog
 author: You
 ---
