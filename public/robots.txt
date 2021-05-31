@@ -1,5 +1,4 @@
-Sitemap: https://www.gagebachik.com/api/posts-sitemap
-
+Sitemap: https://www.gagebachik.com/feed.xml
 User-agent: *
 Allow: /*
 
